@@ -17,7 +17,7 @@ It also features a minimalist and fresh interface.
 4. **Microsoft Store Works**
    - Unlike other modified OSes, this one retains the functionality of the Microsoft Store.
 6. **Cool wallpapers 😎**
-   - Just look at those wallpapers:
+   - Just look at this wallpaper:
    ![](./Docs/Wp/img0.jpg)
-   ![](./Docs/Wp/img19.jpg)
-## 😇👍👎
+## 👎Cons
+ *ERROR 404 Page not found*
