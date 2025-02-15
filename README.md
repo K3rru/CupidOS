@@ -1,2 +1,2 @@
 # CupidOS
-A  minimalist, lightweight, optimized, and secure operating system perfect for gaming.
+This OS is a lightweight version of Windows 11, free of bloatware and unnecessary extras, perfect for older devices. 
