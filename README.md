@@ -5,7 +5,7 @@ It also features a minimalist and fresh interface.
 ![screen-install](./Docs/Desktop.png)
 
 
-# 👍Pros
+# Pros👍
 1. **Easier installation**
    - No internet access is required for installation, and you won’t need to sign in or create a profile.
    - It won’t ask you to create a PIN or password.
@@ -19,10 +19,10 @@ It also features a minimalist and fresh interface.
 6. **Cool wallpapers 😎**
    - Just look at this wallpaper:
    ![](./Docs/Wp/img0.jpg)
-# 👎Cons
+# Cons👎
  *ERROR 404 Page not found*
 
-#FAQ
+# FAQ
   - Is it a secure OS?
   +  Ofc, like all OS, if you navigate safely, you're secure.
 
