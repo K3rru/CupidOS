@@ -1,5 +1,5 @@
 # 😇CupidOS
-This OS is a lightweight version of Windows 11, free of bloatware and unnecessary extras, perfect for older devices. 
+This OS is a lightweight version of Windows 11, free of bloatware and unnecessary extras, perfect for older devices and gaming. 
 It also features a minimalist and fresh interface.
 
 ![screen-install](./Docs/Desktop.png)
@@ -28,3 +28,16 @@ It also features a minimalist and fresh interface.
 
   - Can Can I improve it even more?
   + You can try [Chris Titus](https://github.com/ChrisTitusTech) tool: [Wintool](https://github.com/ChrisTitusTech/winutil)
+
+  - Will I be able to play Fortnite on my potato PC?
+  + Maybe, but this won't turn your Intel HD iGPU into an RTX 4090.
+
+  - Does it come with Windows activated?
+  + No.
+
+  - After installing Windows, a PowerShell window opened. What should I do?
+  + Close it, it's just that some tweaks have been applied.
+
+#Download
+
+You can download the OS [Here](https://cupidos11.wixsite.com/cupidos)
