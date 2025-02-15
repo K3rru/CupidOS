@@ -14,8 +14,10 @@ It also features a minimalist and fresh interface.
      (Inserta captura del Administrador de tareas)
 3. **A lightweight OS**
    - After removing all the bloatware and unnecessary items from the operating system, the ISO now weighs 1 GB less 🤯
-4. **Cool wallpapers 😎**
-   - Just look at this:
-   ![screen-install](./Docs/Wp/img0.jpg)
-   ![screen-install](./Docs/Wp/img19.jpg)
+4. **Microsoft Store Works**
+   - Unlike other modified OSes, this one retains the functionality of the Microsoft Store.
+6. **Cool wallpapers 😎**
+   - Just look at those wallpapers:
+   ![](./Docs/Wp/img0.jpg)
+   ![](./Docs/Wp/img19.jpg)
 ## 😇👍👎
