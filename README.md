@@ -19,5 +19,12 @@ It also features a minimalist and fresh interface.
 6. **Cool wallpapers 😎**
    - Just look at this wallpaper:
    ![](./Docs/Wp/img0.jpg)
-## 👎Cons
+# 👎Cons
  *ERROR 404 Page not found*
+
+#FAQ
+  - Is it a secure OS?
+  +  Ofc, like all OS, if you navigate safely, you're secure.
+
+  - Can Can I improve it even more?
+  + You can try [Chris Titus] (https://github.com/ChrisTitusTech) tool: [Wintool] (https://github.com/ChrisTitusTech/winutil)
