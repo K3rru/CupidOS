@@ -16,5 +16,6 @@ It also features a minimalist and fresh interface.
    - After removing all the bloatware and unnecessary items from the operating system, the ISO now weighs 1 GB less 🤯
 4. **Cool wallpapers 😎**
    - Just look at this:
-   ![screen-install](./Docs/Desktop.png)
+   ![screen-install](./Docs/Wp/img0.jpg)
+   ![screen-install](./Docs/Wp/img19.jpg)
 ## 😇👍👎
