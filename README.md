@@ -27,4 +27,4 @@ It also features a minimalist and fresh interface.
   +  Ofc, like all OS, if you navigate safely, you're secure.
 
   - Can Can I improve it even more?
-  + You can try [Chris Titus] (https://github.com/ChrisTitusTech) tool: [Wintool] (https://github.com/ChrisTitusTech/winutil)
+  + You can try [Chris Titus](https://github.com/ChrisTitusTech) tool: [Wintool](https://github.com/ChrisTitusTech/winutil)
