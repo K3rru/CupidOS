@@ -24,19 +24,19 @@ It also features a minimalist and fresh interface.
 
 # FAQ
   - Is it a secure OS?
-  +  Ofc, like all OS, if you navigate safely, you're secure.
+    +  Ofc, like all OS, if you navigate safely, you're secure.
 
   - Can Can I improve it even more?
-  + You can try [Chris Titus](https://github.com/ChrisTitusTech) tool: [Wintool](https://github.com/ChrisTitusTech/winutil)
+    + You can try [Chris Titus](https://github.com/ChrisTitusTech) tool: [Wintool](https://github.com/ChrisTitusTech/winutil)
 
   - Will I be able to play Fortnite on my potato PC?
-  + Maybe, but this won't turn your Intel HD iGPU into an RTX 4090.
+    + Maybe, but this won't turn your Intel HD iGPU into an RTX 4090.
 
   - Does it come with Windows activated?
-  + No.
+    + No.
 
   - After installing Windows, a PowerShell window opened. What should I do?
-  + Close it, it's just that some tweaks have been applied.
+    + Close it, it's just that some tweaks have been applied.
 
 #Download
 
