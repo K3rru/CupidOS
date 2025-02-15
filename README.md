@@ -6,6 +6,6 @@ It also features a minimalist and fresh interface.
 
 ## Pros
 1. **Easier installation**
-   -No internet access is required for installation, and you won’t need to sign in or create a profile
-   -It won’t ask you to create a PIN or password
+   - No internet access is required for installation, and you won’t need to sign in or create a profile.
+   - It won’t ask you to create a PIN or password.
 ## 😇👍👎
