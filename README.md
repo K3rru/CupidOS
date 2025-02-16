@@ -11,7 +11,7 @@ It also features a minimalist and fresh interface.
    - It won’t ask you to create a PIN or password.
 2. **Lower CPU & RAM usage**
    - Being a bloatware-free OS, it has fewer background tasks.
-     (Inserta captura del Administrador de tareas)
+     ![](./Docs/taskmanager.png)
 3. **A lightweight OS**
    - After removing all the bloatware and unnecessary items from the operating system, the ISO now weighs 1 GB less 🤯
 4. **Microsoft Store Works**
