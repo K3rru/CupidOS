@@ -38,6 +38,6 @@ It also features a minimalist and fresh interface.
   - After installing Windows, a PowerShell window opened. What should I do?
     + Close it, it's just that some tweaks have been applied.
 
-#Download
+# Download😋
 
 You can download the OS [Here](https://cupidos11.wixsite.com/cupidos)
